@@ -1,43 +1,24 @@
-# Image Optimization by Optimole - Lazy Load, CDN, Convert WebP & AVIF #
-**Contributors:** [optimole](https://profiles.wordpress.org/optimole/)  
+#  Image Optimization by Optimole - Lazy Load, CDN, Convert WebP & AVIF
+
+**Contributors:** optimole  
 **Tags:** image optimization, convert webp, image optimizer, lazy load, image, optimization, convert AVIF, resize, free cdn, compress images, optimize images  
 **Requires at least:** 5.5  
 **Tested up to:** 6.7  
 **Requires PHP:** 7.4  
 **Stable tag:** 3.14.1  
 **License:** GPLv3  
-**License URI:** https://www.gnu.org/licenses/gpl-3.0.en.html  
+**License URI:** [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-Automatically compress, optimize and serve scaled images as well as convert WebP & AVIF all from CloudFront CDN. Lazy load included ⚡
+## Description
 
-## Description ##
+Optimole is a comprehensive image optimization solution designed to enhance website performance. With full automation and advanced features, it efficiently optimizes images, reducing page load times without compromising quality.
 
-Optimole is the all-in-one solution to all of your image optimization needs. With full automation and a range of evolutionary features, Optimole makes it easy to clean up your heavy images and bloaty pages.
-
-🤔 Not sure? Test the Magic of Optimole - [Scan your website](https://optimole.com/test-drive/?utm_source=wpadmin&utm_medium=readme&utm_campaign=optimole) to see how we can help.
-
-Optimole [optimizes](https://www.codeinwp.com/blog/how-to-optimize-images/) your images in real-time with a cloud-based system to [speed up your website](https://optimole.com/website-speed-optimization-and-how-to-speed-up-wordpress/) and deliver high-quality images perfectly sized for every device. With a one-click setup and minimal footprint, you can start improving your site in minutes.
-
-### What makes Optimole so special?
-
-- Smaller images. Same quality
-- Fully automated; [set and forget](https://docs.optimole.com/article/1173-how-to-get-started-with-optimole-in-just-3-steps)
-- Supports all image types
-- Supports both Retina and WebP images
-- Machine Learning(ML) powered automatic compression
-- AVIF format support for lower image size
-- Streamline your media with Optimole's custom DAM (Digital asset Management) solution
-- Cloud image library support
-- Edit images in the cloud library before inserting them into your website
-- Serves images from a global CDN for free
-- Optimizes based on the visitor's actual device (no more guesswork and width estimations)
-- Full support for page builders like Elementor
-- Lazy load without jQuery (better)
-- Add a splash of color to your lazy-loading placeholder
-- Hero image optimization for speedier loads
-- Boost WooCommerce gallery performance with Optimole's lazy-loading
-- More file types in the dashboard (video, audio, documents and more)
-- Fully functional free version (we have [paid plans](https://optimole.com/pricing/?utm_source=wpadmin&utm_medium=readme&utm_campaign=optimole) as well)
+🚀 **Key Features:**  
+✔️ **Smaller Images, Same Quality** – Optimole ensures lossless/lossy compression for best results.  
+✔️ **Fully Automated** – Set it up once, and Optimole takes care of everything.  
+✔️ **Supports Next-Gen Formats** – Seamlessly convert images to WebP and AVIF.  
+✔️ **Smart Device Optimization** – Delivers images based on user devices and screen sizes.  
+✔️ **Cloud-Powered CDN** – Serve optimized images from a global network.  
 
 You'll be free to concentrate on other aspects of your site with Optimole's set and forget image optimization.
 
